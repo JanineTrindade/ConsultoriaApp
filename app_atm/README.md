@@ -1,5 +1,7 @@
 # app_atm
 
+Janine Quadros e Lucas Ferreira
+
 A new Flutter project.
 
 ## Getting Started
